@@ -2,7 +2,7 @@
 
 #include "TDSProjectGameMode.h"
 #include "TDSProjectPlayerController.h"
-#include "../Character/TDSProjectCharacter.h"
+#include "TDSProjectCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 
 ATDSProjectGameMode::ATDSProjectGameMode()

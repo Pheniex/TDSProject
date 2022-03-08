@@ -2,11 +2,5 @@
 
 
 #include "Types.h"
+#include "TDSProject.h"
 
-Types::Types()
-{
-}
-
-Types::~Types()
-{
-}
